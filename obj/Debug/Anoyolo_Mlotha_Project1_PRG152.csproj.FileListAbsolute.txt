@@ -1,0 +1,12 @@
+C:\Users\Yolo09\Documents\PRG1512021\Anoyolo_Mlotha_Project1_PRG152\obj\Debug\Anoyolo_Mlotha_Project1_PRG152.csproj.AssemblyReference.cache
+C:\Users\Yolo09\Documents\PRG1512021\Anoyolo_Mlotha_Project1_PRG152\obj\Debug\Anoyolo_Mlotha_Project1_PRG152.csproj.CoreCompileInputs.cache
+C:\Users\Yolo09\Documents\Coding\C#\Proper School Projects C# Applications\Anoyolo_Mlotha_Project1_PRG152 (1)\Anoyolo_Mlotha_Project1_PRG152\obj\Debug\Anoyolo_Mlotha_Project1_PRG152.csproj.AssemblyReference.cache
+C:\Users\Yolo09\Documents\Coding\C#\Proper School Projects C# Applications\Anoyolo_Mlotha_Project1_PRG152 (1)\Anoyolo_Mlotha_Project1_PRG152\obj\Debug\Anoyolo_Mlotha_Project1_PRG152.csproj.SuggestedBindingRedirects.cache
+C:\Users\Yolo09\Documents\Coding\C#\Proper School Projects C# Applications\Anoyolo_Mlotha_Project1_PRG152 (1)\Anoyolo_Mlotha_Project1_PRG152\obj\Debug\Anoyolo_Mlotha_Project1_PRG152.csproj.CoreCompileInputs.cache
+C:\Users\Yolo09\Documents\Coding\C#\Proper School Projects C# Applications\Anoyolo_Mlotha_Project1_PRG152\Anoyolo_Mlotha_Project1_PRG152\bin\Debug\Anoyolo_Mlotha_Project1_PRG152.exe.config
+C:\Users\Yolo09\Documents\Coding\C#\Proper School Projects C# Applications\Anoyolo_Mlotha_Project1_PRG152\Anoyolo_Mlotha_Project1_PRG152\bin\Debug\Anoyolo_Mlotha_Project1_PRG152.exe
+C:\Users\Yolo09\Documents\Coding\C#\Proper School Projects C# Applications\Anoyolo_Mlotha_Project1_PRG152\Anoyolo_Mlotha_Project1_PRG152\bin\Debug\Anoyolo_Mlotha_Project1_PRG152.pdb
+C:\Users\Yolo09\Documents\Coding\C#\Proper School Projects C# Applications\Anoyolo_Mlotha_Project1_PRG152\Anoyolo_Mlotha_Project1_PRG152\obj\Debug\Anoyolo_Mlotha_Project1_PRG152.csproj.AssemblyReference.cache
+C:\Users\Yolo09\Documents\Coding\C#\Proper School Projects C# Applications\Anoyolo_Mlotha_Project1_PRG152\Anoyolo_Mlotha_Project1_PRG152\obj\Debug\Anoyolo_Mlotha_Project1_PRG152.csproj.CoreCompileInputs.cache
+C:\Users\Yolo09\Documents\Coding\C#\Proper School Projects C# Applications\Anoyolo_Mlotha_Project1_PRG152\Anoyolo_Mlotha_Project1_PRG152\obj\Debug\Anoyolo_Mlotha_Project1_PRG152.exe
+C:\Users\Yolo09\Documents\Coding\C#\Proper School Projects C# Applications\Anoyolo_Mlotha_Project1_PRG152\Anoyolo_Mlotha_Project1_PRG152\obj\Debug\Anoyolo_Mlotha_Project1_PRG152.pdb
